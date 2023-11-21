@@ -1,5 +1,8 @@
 # Game Project
 
-Para correr el juego debes seguir las sieguientes instrucciones en la terminal:
+Para correr el juego debes seguir las siguientes instrucciones en la terminal:
 
-python3 Piedra_papel_tijera.py
+``` sh
+cd game
+python3 game.py
+```
